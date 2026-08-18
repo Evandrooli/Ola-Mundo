@@ -62,3 +62,4 @@ Galera, não entendi o que eu fiz
 <img width="525" height="429" alt="WhatsApp Image 2026-08-18 at 12 58 18" src="https://github.com/user-attachments/assets/1e9586c6-a577-429c-a2c4-12c54cebafd0" />
 
 Olá, Evandro 🖖 ✋
+
